@@ -1,0 +1,24 @@
+.horizontal{
+    list-style-type: none;/*this will remove the bullet symbol*/
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;/*it will create the link items within a box*/
+    color:white;
+    text-align: center;
+    padding:14px 16px;
+    /*from the top margin there should be 14px space and between each menu item
+    there should be a space of 16px*/
+    text-decoration: none;
+}
+li a:hover
+{
+    background-color: yellow;
+    color: black;
+}

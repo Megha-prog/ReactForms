@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+body,form {
+    font-family: 'rupik', sans-serif;
+}
+form {
+font-size: 25px;    
+text-align: justify;
+}
+table {
+    align-self: center;
+}
+td {
+    font-weight: bold;
+}
+input {
+    height: 25px;
+}
